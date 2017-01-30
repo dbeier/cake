@@ -18,7 +18,9 @@ Due to my birthday I bake some cake for you :birthday: :balloon:
 - :cake:
 
 ### Presents
-None so far :(
+- CompanyLove 💙
 
 ### Birthday gif(t)s
 I LIKE TURTLES!
+
+![GIF](http://i.giphy.com/1PoVU8URDRoac.gif)
