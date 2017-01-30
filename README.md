@@ -22,4 +22,5 @@ Due to my birthday I bake some cake for you :birthday: :balloon:
 
 ### Birthday gif(t)s
 I LIKE TURTLES!
-[GIF]: https://media.giphy.com/media/1PoVU8URDRoac/giphy.gif "GIF"
+
+[GIF]: http://i.giphy.com/1PoVU8URDRoac.gif "GIF"
